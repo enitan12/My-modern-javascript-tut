@@ -2,5 +2,15 @@
   "dependencies": {
     "leaflet": "^1.9.3",
     "lodash-es": "^4.17.21"
-  }
+  },
+  "name": "my-modern-javascript-tut",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christiana",
+  "license": "ISC",
+  "description": ""
 }
